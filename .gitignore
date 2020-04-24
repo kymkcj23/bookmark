@@ -1,8 +1,6 @@
-```bash {.line-numbers}
 *.pyc
 *~
 __pycache__
 *.zip
 .DS_Store
 .idea
-```
