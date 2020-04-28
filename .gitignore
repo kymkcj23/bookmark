@@ -3,4 +3,5 @@
 __pycache__
 *.zip
 .DS_Store
-.idea
+.
+/static
